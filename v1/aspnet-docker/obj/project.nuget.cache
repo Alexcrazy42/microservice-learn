@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fRsh3ROkF9HiZHiJ9e7O2NALCByvsG2BLpjrCVr5s4YErqVEncoW3fjVCNl8gYLMH/ts+ktGF8TGZNTZ3NEgVg==",
+  "dgSpecHash": "mA+ZZMzuGpU2uytgcac9IJUpCxDhRRIkzur1G0q2G2xnTPrmOgsDjjzxM3zxjEGoUwMLkFElEEcuoB7dIev8OQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\aspnet-docker\\aspnet-docker.csproj",
+  "projectFilePath": "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\v1\\aspnet-docker\\aspnet-docker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\alexc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
