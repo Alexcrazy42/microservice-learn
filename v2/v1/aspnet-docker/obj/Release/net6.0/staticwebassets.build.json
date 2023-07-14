@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "itfNXeD9eyX8GS71YCaxWf0pq/t+5+QXKiw1n+Dhcw8=",
+  "Source": "aspnet-docker",
+  "BasePath": "_content/aspnet-docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
