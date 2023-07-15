@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\v1\\aspnet-docker\\aspnet-docker.csproj": {}
+    "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\v2\\v1\\aspnet-docker\\aspnet-docker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\v1\\aspnet-docker\\aspnet-docker.csproj": {
+    "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\v2\\v1\\aspnet-docker\\aspnet-docker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\v1\\aspnet-docker\\aspnet-docker.csproj",
+        "projectUniqueName": "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\v2\\v1\\aspnet-docker\\aspnet-docker.csproj",
         "projectName": "aspnet-docker",
-        "projectPath": "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\v1\\aspnet-docker\\aspnet-docker.csproj",
+        "projectPath": "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\v2\\v1\\aspnet-docker\\aspnet-docker.csproj",
         "packagesPath": "C:\\Users\\alexc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\v1\\aspnet-docker\\obj\\",
+        "outputPath": "C:\\Users\\alexc\\source\\repos\\aspnet-docker\\v2\\v1\\aspnet-docker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
